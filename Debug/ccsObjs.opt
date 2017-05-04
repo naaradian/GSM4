@@ -1,0 +1,1 @@
+"./Lifo.obj" "./atcommands.obj" "./buffer.obj" "./bufferspi.obj" "./cc430x613x_dma_05.obj" "./main.obj" "./spi.obj" "../lnk_cc430f6137.cmd" -llibmath.a -llibc.a 
